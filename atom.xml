@@ -6,7 +6,7 @@
   <link href="https://xxxx.cqday.top/atom.xml" rel="self"/>
   
   <link href="https://xxxx.cqday.top/"/>
-  <updated>2021-01-21T14:41:51.543Z</updated>
+  <updated>2021-01-21T15:00:24.117Z</updated>
   <id>https://xxxx.cqday.top/</id>
   
   <author>
@@ -17,19 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello , World!</title>
-    <link href="https://xxxx.cqday.top/2020/11.html"/>
-    <id>https://xxxx.cqday.top/2020/11.html</id>
+    <title>2020程01号委托进度公示</title>
+    <link href="https://xxxx.cqday.top/2020/202001.html"/>
+    <id>https://xxxx.cqday.top/2020/202001.html</id>
     <published>2020-12-20T10:37:44.000Z</published>
-    <updated>2021-01-21T14:41:51.543Z</updated>
+    <updated>2021-01-21T15:00:24.117Z</updated>
     
-    <content type="html"><![CDATA[<p>test</p>]]></content>
+    <content type="html"><![CDATA[<p>2020年11月07日受到其客户余子豪(gzyzh.xyz)的委托，进行Hexo博客搭建，方式为Github+Vercel，于当天完成基础搭建。<br>2020年11月21日客户反馈无法打开博客，经程序分部排查为域名未实名验证所致。客户在程序分部的引导下完成实名验证，次日网站恢复访问。<br>2021年01月21日完成全搭建(域名未绑定)，客户支付前期工程款￥50.00元，支付方式:Alipay 支付单号:2021012122001423111450658218<br>持续更新中</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;test&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;2020年11月07日受到其客户余子豪(gzyzh.xyz)的委托，进行Hexo博客搭建，方式为Github+Vercel，于当天完成基础搭建。&lt;br&gt;2020年11月21日客户反馈无法打开博客，经程序分部排查为域名未实名验证所致。客户在程序分部的引导下完成实名验证，次日网</summary>
       
     
     
